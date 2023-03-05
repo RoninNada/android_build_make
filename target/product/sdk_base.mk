@@ -35,7 +35,6 @@ PRODUCT_PACKAGES := \
 	LiveWallpapersPicker \
 	Mms \
 	OpenWnn \
-	Protips \
 	rild \
 	screenrecord \
 	SdkSetup \
