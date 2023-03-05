@@ -29,12 +29,8 @@ PRODUCT_PACKAGES := \
 	Launcher3 \
 	Camera2 \
 	librs_jni \
-	libwnndict \
-	libWnnEngDic \
-	libWnnJpnDic \
 	LiveWallpapersPicker \
 	Mms \
-	OpenWnn \
 	rild \
 	screenrecord \
 	SdkSetup \
